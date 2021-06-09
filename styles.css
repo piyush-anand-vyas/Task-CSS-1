@@ -1,0 +1,65 @@
+
+img{
+    height: 50px;
+    width: 70px;
+    margin-right: 10px;
+}
+
+li{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight:normal;
+}
+
+.btn{
+    border-radius: 25px;
+    
+}
+
+.botnav{
+    height: 40px;
+}
+
+.botnav>a:hover{
+    background-color:black;
+}
+.leftDiv{
+    background-color: lightgray;
+}
+
+.topul> li:hover{
+    background-color: #04AA6D;
+}
+
+.leftDiv > a{
+    color: white;
+}
+
+span{
+    font-size: larger;
+}
+
+.note{
+    background-color: #ffffcc;
+    height: 100px;
+}
+
+.note > p{
+    padding: 30px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.leftul > li >a{
+    color: black;
+}
+
+.navbar-toggler{
+    font-size: smaller;
+}
+
+.btn-outline-success:hover{
+    background-color: #04AA6D;
+}
